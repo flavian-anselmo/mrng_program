@@ -1,0 +1,12 @@
+# algorithm
+
+-the qudratic formula
+first check for the decriminant 
+    if >0= or <>0
+    if==0{
+        we can say not defined or imaerginary values 
+    }
+    get the negative value 
+    then getthe possitive value 
+    
+
